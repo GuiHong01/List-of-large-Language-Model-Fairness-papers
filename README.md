@@ -3,3 +3,5 @@
 
 - FANS: Fast Non-Autoregressive Sequence Generation for Item List Continuation [(pdf)](https://arxiv.org/pdf/2304.00545) [(code)](https://github.com/Jyonn/FANS)
 - Dual-Teacher De-biasing Distillation Framework for Multi-domain Fake News Detection 这是十二月份收录的论文，目前在谷歌学术上还没有[(code)](https://github.com/ningljy/DTDBD)
+- Rumor detection and classification for twitter data [(pdf)](https://arxiv.org/pdf/1912.08926)
+- Generalizing to the Future_ Mitigating Entity Bias in Fake News Detection [(pdf)](https://dl.acm.org/doi/pdf/10.1145/3477495.3531816) [(code)](https://github.com/ICTMCG/ENDEF-SIGIR2022)
